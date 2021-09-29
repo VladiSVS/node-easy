@@ -1,6 +1,6 @@
 
 function showOne(arr) {
-    return arr.slice(1, -1)
+    return arr.slice(0, -1)
 }
 
 function showTwo(arr) {
